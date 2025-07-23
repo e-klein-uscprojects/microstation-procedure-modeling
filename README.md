@@ -4,7 +4,7 @@ I am a graduate of the USC Viterbi School of Engineering with experience in avia
 
 ## Project Overview
 
-The contents of this project document representative aviation design logic as applied in MicroStation, including geospatial placement strategies and navigational component validation across fictional flight environments.
+The contents of this project document representative aviation design logic as applied in MicroStation, including geospatial placement strategies and navigational component validation across conceptual flight environments.
 
 ## Repository Structure
 
